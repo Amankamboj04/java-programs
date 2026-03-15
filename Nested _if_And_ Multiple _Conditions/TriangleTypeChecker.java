@@ -11,7 +11,7 @@ public class TriangleTypeChecker {
         int c=sc.nextInt();
         if(a+b>c && a+c>b && b+c>a){
             System.out.println("Valid Triangle.");
-            if(a==b && b==c && a==c){
+            if(a==b && b==c){
                 System.out.println("Equilateral Triangle.");
             }
             else if(a==b || b==c ||a==c){
