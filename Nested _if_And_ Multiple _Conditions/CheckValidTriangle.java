@@ -13,7 +13,7 @@ public class CheckValidTriangle {
             System.out.println("Valid Triangle.");
         }
         else{
-            System.out.println("Not valid triangle.");
+            System.out.println("Not Valid triangle.");
         }
     }
     
