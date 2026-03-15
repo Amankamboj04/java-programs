@@ -1,4 +1,4 @@
-package Nested_if_And_Multiple_Conditions;
+package nested_if_and_multiple_conditions;
 import java.util.Scanner;
 public class CheckValidTriangle {
     public static void main(String []args){
