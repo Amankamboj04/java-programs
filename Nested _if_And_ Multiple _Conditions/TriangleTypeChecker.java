@@ -1,4 +1,3 @@
-package nested_if_and_multiple_conditions;
 import java.util.Scanner;
 public class TriangleTypeChecker {
     public static void main(String []args){
