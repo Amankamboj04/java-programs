@@ -14,6 +14,7 @@ public class CheckValidTriangle {
         else{
             System.out.println("Not Valid triangle.");
         }
+        sc.close();
     }
     
 }
