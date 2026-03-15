@@ -1,4 +1,4 @@
-package nested _if_and_ multiple _conditions;
+package nested_if_and_multiple_conditions;
 import java.util.Scanner;
 public class TriangleTypeChecker {
     public static void main(String []args){
@@ -24,5 +24,6 @@ public class TriangleTypeChecker {
         else{
             System.out.println("Not Valid triangle.");
         }
+        sc.close();
     }
 }
