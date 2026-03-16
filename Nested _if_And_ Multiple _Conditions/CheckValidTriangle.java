@@ -1,3 +1,4 @@
+//Take three sides and check if they form a valid triangle. 
 import java.util.Scanner;
 public class CheckValidTriangle {
     public static void main(String []args){
