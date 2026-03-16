@@ -1,3 +1,4 @@
+//Take marks (0–100) and print the corresponding grade (A/B/C/D/F). 
 import java.util.Scanner;
 public class GradeCalculator {
     public static void main(String[] args) {
