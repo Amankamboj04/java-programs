@@ -1,3 +1,4 @@
+//Check if one of two given numbers is a multiple of the other
 import java.util.Scanner;
 public class MultipleChecker {
     public static void main(String []args){
