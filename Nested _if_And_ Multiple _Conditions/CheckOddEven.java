@@ -1,3 +1,4 @@
+// Take two numbers and determine whether both are even, both are odd, or one is even and one is odd. 
 import java.util.Scanner;
 
 public class CheckOddEven {
