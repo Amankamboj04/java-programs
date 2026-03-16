@@ -1,3 +1,4 @@
+// If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene. 
 import java.util.Scanner;
 public class TriangleTypeChecker {
     public static void main(String []args){
