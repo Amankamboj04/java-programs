@@ -12,8 +12,9 @@ public class DistinctDigits {
             System.out.println("All digits are distinct.");
         }
         else{
-            System.out.println("All digits are not distinct.");
-     
-     sc.close();   }
+            System.out.println("All digits aren't distinct.");
+        }     
+     sc.close(); 
+
     }
 }
