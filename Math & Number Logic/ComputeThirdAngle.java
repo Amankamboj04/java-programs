@@ -1,4 +1,4 @@
-
+//Take two angles of a triangle and compute the third angle. 
 import java.util.Scanner;
 public class ComputeThirdAngle {
     public static void main(String[] args) {
