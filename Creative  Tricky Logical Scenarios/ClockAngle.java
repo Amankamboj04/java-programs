@@ -18,5 +18,6 @@ public class ClockAngle {
         angle = Math.min(angle, 360 - angle);
 
         System.out.println("Smaller Angle: " + angle);
+        sc.close();
     }
 }
